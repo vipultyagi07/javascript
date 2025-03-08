@@ -6,7 +6,6 @@ let isActive = true;      // Boolean
 let noValue;              // Undefined
 let emptyValue = null;    // Null
 let bigNumber = 12345678901234567890n; // BigInt
-let uniqueKey = Symbol("id"); // Symbol
 
 
 console.log(typeof username);  // "string"
